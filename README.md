@@ -1,4 +1,7 @@
 # TEMARIO-A---PARTE-1-2-3
+Elaborado por: Brándon Endervy Fuentes Bautista.     carné 26515
+Curso: Programación Orientada a Objetos.
+
 Repositorio que alojara la programación de clases y el UML
 Descripción: El sistema es un dashboard desarrollado en Java que reúne widgets de clima, tareas, alertas, relojes y frases.
 
